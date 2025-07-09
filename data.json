@@ -62,5 +62,9 @@
   {
     "username": "administrator",
     "password": "admin"
+  },
+  {
+    "username": "bbb",
+    "password": "6767"
   }
 ]
